@@ -8,10 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.4"
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "vue": "^3.3.4",
+    "vue-material-design-icons": "^5.2.0",
+    "vue-split-carousel": "^3.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.3.1",
+    "sass": "^1.66.1",
     "vite": "^4.4.9"
   }
 }
